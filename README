@@ -1,0 +1,17 @@
+AUTHORS
+-----------------------------------------
+Raja Jamwal <linux1@zoho.com>
+
+Description
+-----------------------------------------
+I was going through my backups and I found this simple filesystem driver I wrote in 2009, this prevents mount of removable disks{usb_mass_storage…}, This driver was a spinoff of the driver Spysym007, i was developing.
+
+Maybe this could be useful to persons who want to prevents removable data disk on a windows machine, like cafes, public PCs, schools etc, but at the same allow other usb devices like webcam etc.
+
+AVAILABILITY
+-----------------------------------------
+This project shares much of its source with SpySym007 (available on git), therefore only binary is available on this repository. The installation would require the inf file, you can copy that from SpySym007 source.
+
+USAGES
+-----------------------------------------
+Please look into spysym007 repository of related information.
